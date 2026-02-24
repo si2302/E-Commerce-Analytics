@@ -66,11 +66,7 @@ Data Cleaning & Formatting
 
 Data Aggregation & Analysis
 
-📂 Repository Structure
-├── Dashboard.xlsx
-├── images/
-│   └── Dashboard.png
-└── README.md
+
 🚀 Features of the Dashboard
 
 Interactive filters (Year, Segment, Region)
