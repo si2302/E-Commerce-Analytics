@@ -79,7 +79,3 @@ Convert dashboard into Power BI for advanced analytics
 
 Add customer segmentation analysis
 
-
-⭐ A resume-ready project description (3–4 lines)
-
-Just tell me 😊
